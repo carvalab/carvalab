@@ -27,10 +27,10 @@ I'm a software developer based in Buenos Aires Argentina, specializing in buildi
 - 📱 &nbsp;Mobile:&nbsp;
   ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
 - 🛢 &nbsp;Database:&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
