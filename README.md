@@ -16,7 +16,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 ```typescript
-const pablo = {
+const pablito = {
     location: "Buenos Aires, Argentina",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "C#", "Go"],
