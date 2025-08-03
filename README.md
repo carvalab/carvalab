@@ -116,7 +116,7 @@ const pablito = {
   <a href="mailto:vivacarvajalito@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0A1A2F?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
-  <a href="https://linkedin.com/in/carvalab" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
   </a>
 </div>
